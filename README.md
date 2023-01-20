@@ -1,6 +1,8 @@
+
+<img width="100%" alt="Hasan" width="700" src="https://i.ibb.co/j6ZRZ3g/my-banner2.png">
 <h1 align="center">Hi 👋, I'm Md Hasan Mia</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img align="right" alt="Coading By Hasan" width="400" scr="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="Hasan" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasan76&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasan76" /> </p>
 
@@ -8,13 +10,13 @@
 
 - 🌱 I’m currently learning **Redux, Typescript, and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://mdhasan-portfolio.netlify.app/](https://mdhasan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mdhasan-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack and Front End Development**
 
 - 📫 How to reach me **mdhasanmiah8064@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gkQo2KbrZuaB3b2vwd2IhBh4lrqZ7AKQ/view?usp=share_link](https://drive.google.com/file/d/1gkQo2KbrZuaB3b2vwd2IhBh4lrqZ7AKQ/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkQo2KbrZuaB3b2vwd2IhBh4lrqZ7AKQ/view?usp=share_link)
 
 - ⚡ Fun fact **I love to problem solving**
 
