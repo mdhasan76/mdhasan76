@@ -1,5 +1,5 @@
 
-<img width="100%" alt="Hasan" width="700" src="https://i.ibb.co/j6ZRZ3g/my-banner2.png">
+<img width="100%" alt="Hasan" width="700" src="https://i.ibb.co/RBgkRHS/my-banner.png">
 <h1 align="center">Hi 👋, I'm Md Hasan Mia</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Hasan" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
