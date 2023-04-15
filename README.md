@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasan76&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasan76" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://mdhasan-portfolio.netlify.app/)
+- 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
 
 - 🌱 I’m currently learning **Redux, Typescript, and Next.js**
 
