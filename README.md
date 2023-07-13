@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gkQo2KbrZuaB3b2vwd2IhBh4lrqZ7AKQ/view?usp=share_link)
 
-- ⚡ Fun fact **I love to problem solving**
+- ⚡ Fun fact **I am a Business Study background Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
