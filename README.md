@@ -4,8 +4,9 @@
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Hasan" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasan76&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasan76" /> </p>
 [![wakatime](https://wakatime.com/badge/user/88f5618a-e3f0-4069-a61b-91d3f429e4e5.svg)](https://wakatime.com/@88f5618a-e3f0-4069-a61b-91d3f429e4e5)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasan76&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasan76" /> </p>
 
 - 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
 
