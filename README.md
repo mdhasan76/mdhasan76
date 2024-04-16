@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MindQuest Studio](https://www.linkedin.com/company/mindqueststudio/)
 
-- 🌱 I’m currently learning **Redux, Typescript, and Next.js**
+- 🌱 I’m currently learning **Redis, Docker, and SQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mdhasan-portfolio.netlify.app/)
 
